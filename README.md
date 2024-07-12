@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a Backend Developer and technology enthusiast. Passionate about coding and creating efficient solutions.
 
+Here's my DevCard from[DailyDev][app.daily.dev]
 <a href="https://app.daily.dev/thekubera"><img src="./devcard.png" width="652" alt="Kuber's Dev Card"/></a>
 
 
