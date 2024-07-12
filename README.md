@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a Backend Developer and technology enthusiast. Passionate about coding and creating efficient solutions.
+
+<a href="https://app.daily.dev/thekubera"><img src="./devcard.png" width="652" alt="Kuber's Dev Card"/></a>
+
 
 <!--
 **thekubera/thekubera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
