@@ -1,21 +1,32 @@
-## Hi there 👋
-I'm a Backend Developer and technology enthusiast. Passionate about coding and creating efficient solutions.
+# Welcome to Kubera's Terminal
 
-### Here's my DevCard from DailyDev
-<a href="https://app.daily.dev/thekubera"><img src="./devcard.png" width="652" alt="Kuber's Dev Card"/></a>
+```sh
+██╗  ██╗██╗   ██╗██████╗ ███████╗██████╗  █████╗ 
+██║ ██╔╝██║   ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗
+█████╔╝ ██║   ██║███╔═██╗█████╗  ██████╔╝███████║
+██╔═██╗ ██║   ██║██╔══██║██╔══╝  ██╔══██╗██╔══██║
+██║  ██╗╚██████╔╝██║  ██║███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 
+user@thekubera:~$ whoami
+Kubera - Backend Developer | Tech Enthusiast | Ilam, Nepal
 
-<!--
-**thekubera/thekubera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+user@thekubera:~$ skills --list
 
-Here are some ideas to get you started:
+PHP · Laravel · Kafka · Redis · Docker · MySQL · Postgres · React · Node · Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+user@thekubera:~$ uptime
+
+Coding efficient solutions since 2019*
+
+user@thekubera:~$ ping --contact
+
+LinkedIn: https://www.linkedin.com/in/thekubera/
+
+user@thekubera:~$ cat quote.txt
+
+"Code is poetry when it runs without bugs."
+
+user@thekubera:~$ exit
+Session closed. Happy coding!
+```
